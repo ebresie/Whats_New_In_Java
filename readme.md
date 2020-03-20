@@ -15,3 +15,6 @@ References:
  * Java 8 Lambda
 - https://javaalmanac.io/
 - https://ondro.inginea.eu/index.php/new-features-between-java-8-and-java-14/
+
+- Java 14:
+—- https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
