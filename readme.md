@@ -16,5 +16,7 @@ References:
 - https://javaalmanac.io/
 - https://ondro.inginea.eu/index.php/new-features-between-java-8-and-java-14/
 - https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/
+- https://advancedweb.hu/new-language-features-since-java-8/
+-  https://github.com/AdoptOpenJDK/jdk-api-diff
 - Java 14:
 —- https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
