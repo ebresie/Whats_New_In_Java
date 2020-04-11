@@ -10,13 +10,21 @@ History:
 - See github commit history
 
 References:
-- Release Notes from Java releases
+- 
+
+-- Release Notes from Java releases
+- Version Specific 
+-- Java 14:
+* https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
+
 - Books
  * Java 8 Lambda
-- https://javaalmanac.io/
-- https://ondro.inginea.eu/index.php/new-features-between-java-8-and-java-14/
-- https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/
-- https://advancedweb.hu/new-language-features-since-java-8/
--  https://github.com/AdoptOpenJDK/jdk-api-diff
-- Java 14:
-—- https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
+ 
+_ Articles / Web Site Refernces
+* https://javaalmanac.io/
+* https://ondro.inginea.eu/index.php/new-features-between-java-8-and-java-14/
+* https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/
+* https://advancedweb.hu/new-language-features-since-java-8/
+* https://github.com/AdoptOpenJDK/jdk-api-diff
+* https://github.com/AdoptOpenJDK/lambda-tutorial
+* https://docs.microsoft.com/en-us/azure/java/jdk/transition-from-java-8-to-java-11
