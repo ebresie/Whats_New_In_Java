@@ -1,10 +1,10 @@
 What's New in Java
 ===================
-This is a project intended to identify and show examples of new features in java.
-
-It is a work in progress for which I hope to fill in as time permits.
+This is a project intended to identify, provide ingormation about, and show examples of new features in java betwern different versions.
 
 Credit to others code and refernece will be provided as best as possible.  All rights belong to those originating the applicable code.
+
+It is a work in progress for which I hope to fill in as time permits.
 
 History:
 - See github commit history
@@ -12,17 +12,20 @@ History:
 References:
 - Release Specific
 
--- Release Notes from Java releases
--- Migration Guides
+ * Release Notes from Java releases
+
+- Migration Guides
+
 * https://docs.oracle.com/en/java/javase/11/migrate/index.html#JSMIG-GUID-C25E2B1D-6C24-4403-8540-CFEA875B994A
  
--- Java 14:
+ ** Java 14:
+ 
 * https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
 
 - Books
  * Java 8 Lambda
  
-_ Articles / Web Site Refernces
+- Articles / Web Site Refernces
 * https://javaalmanac.io/
 * https://ondro.inginea.eu/index.php/new-features-between-java-8-and-java-14/
 * https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/
