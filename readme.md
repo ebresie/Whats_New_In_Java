@@ -1,8 +1,8 @@
 What's New in Java
 ===================
-This is a project intended to identify, provide ingormation about, and show examples of new features in java betwern different versions.
+This is a project intended to identify, provide information about, and show examples of changes and new features in java between different versions.
 
-Credit to others code and refernece will be provided as best as possible.  All rights belong to those originating the applicable code.
+Credit to others code and refernece will be provided as best as possible.  All rights belong to those originating the applicable code and information.
 
 It is a work in progress for which I hope to fill in as time permits.
 
