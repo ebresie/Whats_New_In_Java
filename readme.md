@@ -10,10 +10,12 @@ History:
 - See github commit history
 
 References:
-- 
+- Release Specific
 
 -- Release Notes from Java releases
-- Version Specific 
+-- Migration Guides
+* https://docs.oracle.com/en/java/javase/11/migrate/index.html#JSMIG-GUID-C25E2B1D-6C24-4403-8540-CFEA875B994A
+ 
 -- Java 14:
 * https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
 
