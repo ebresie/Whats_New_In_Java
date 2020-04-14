@@ -13,6 +13,12 @@ References:
 - Release Specific
 
  * Release Notes from Java releases
+ 
+** Java 8: https://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html
+
+** Java 9: https://docs.oracle.com/javase/9/whatsnew/toc.htm
+
+** Java 14: http://jdk.java.net/14/release-notes
 
 - Migration Guides
 
