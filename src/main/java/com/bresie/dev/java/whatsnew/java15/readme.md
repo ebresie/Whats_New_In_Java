@@ -13,5 +13,6 @@ All rights to the material replicated below are with the original authors as spe
 =============================================
 
 - https://www.oracle.com/news/announcement/oracle-announces-java-15-091520.html
+- https://jdk.java.net/15/release-notes
 
 - todo added release note reference
