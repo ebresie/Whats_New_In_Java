@@ -8,6 +8,9 @@ This has updates relative to JDK 9.
 
 The material here is from the URL listed below.  The intent is to help guide exercise to demonstrate the changes relative to the whatsnew.  
 
+Additional reference materials:
+- https://nipafx.dev/java-module-system-tutorial/
+
 All rights to the material replicated below are with the original authors as spelled out at the original site.
 
 =============================================
