@@ -11,10 +11,10 @@ The material here is from the URL listed below. The intent is to help guide exer
 All rights to the material replicated below are with the original authors as spelled out at the original site.
 
 =============================================
+- https://www.jcp.org/en/jsr/detail?id=391
 - https://jdk.java.net/16/release-notes
 - http://openjdk.java.net/projects/jdk/16/spec/
 - http://openjdk.java.net/projects/jdk/16/
 - https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html
 - https://www.infoq.com/news/2020/11/java16-so-far/
 
-todo added release note reference
