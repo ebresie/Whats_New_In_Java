@@ -12,6 +12,6 @@ All rights to the material replicated below are with the original authors as spe
 
 =============================================
 
-https://jdk.java.net/17/release-notes
-http://openjdk.java.net/projects/jdk/17/spec/
-http://openjdk.java.net/projects/jdk/17/
+- https://jdk.java.net/17/release-notes
+- http://openjdk.java.net/projects/jdk/17/spec/
+- http://openjdk.java.net/projects/jdk/17/
