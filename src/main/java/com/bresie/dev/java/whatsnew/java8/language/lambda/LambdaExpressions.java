@@ -14,7 +14,7 @@ import java.util.function.BinaryOperator;
  * (referred to as functional interfaces) more compactly.
  * <p>
  * some of these examples are
- * basef on from "Java 8 Lambdas" by Richard Warburton - example 2-3.
+ * based on content from "Java 8 Lambdas" by Richard Warburton - example 2-3.
  */
 public class LambdaExpressions {
     public static void main(String[] args) {
