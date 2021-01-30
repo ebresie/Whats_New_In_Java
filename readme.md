@@ -24,6 +24,7 @@ References:
 
 * https://docs.oracle.com/en/java/javase/11/migrate/index.html#JSMIG-GUID-C25E2B1D-6C24-4403-8540-CFEA875B994A
 * https://github.com/nipafx/demo-java-9-migration/blob/master/README.md
+* https://github.com/nipafx/demo-java-9-migration/blob/master/guide.adoc
 
  ** Java 14:
  
