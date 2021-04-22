@@ -17,4 +17,4 @@ All rights to the material replicated below are with the original authors as spe
 - http://openjdk.java.net/projects/jdk/16/
 - https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html
 - https://www.infoq.com/news/2020/11/java16-so-far/
-
+- https://www.javacodegeeks.com/2021/04/looking-into-the-jdk-16-vector-api.html
