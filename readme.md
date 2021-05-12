@@ -18,17 +18,22 @@ References:
 
 ** Java 9: https://docs.oracle.com/javase/9/whatsnew/toc.htm
 
-** Java 14: http://jdk.java.net/14/release-notes
+** Java 14: 
+*** http://jdk.java.net/14/release-notes
+*** https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
+
+** Java 15
+** Java 16
+** Java 17
 
 - Migration Guides
 
 * https://docs.oracle.com/en/java/javase/11/migrate/index.html#JSMIG-GUID-C25E2B1D-6C24-4403-8540-CFEA875B994A
 * https://github.com/nipafx/demo-java-9-migration/blob/master/README.md
 * https://github.com/nipafx/demo-java-9-migration/blob/master/guide.adoc
+* https://examples.javacodegeeks.com/java-8-vs-java-11/
 
- ** Java 14:
  
-* https://www.zdnet.com/google-amp/article/oracle-programming-language-java-14-is-out-with-these-16-major-feature-improvements/
 
 - Books
  * Java 8 Lambda
