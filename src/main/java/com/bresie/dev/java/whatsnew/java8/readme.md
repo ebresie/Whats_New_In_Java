@@ -232,3 +232,38 @@ To disable hardware AES use the following flags:
 * Java Mission Control 5.3 Release Notes
 
 (84) JDK 8 includes Java Mission Control 5.3.
+
+
+
+================================================
+
+Java 8 Changes
+
+From the following article, items new to Java 8
+https://examples.javacodegeeks.com/java-8-vs-java-11/'
+
+New Features introduced in Java version 8
+
+With Java version 8, Oracle moved away from the Binary Code License(BCL). Oracle released java under two licenses from Java 8 onwards.
+
+GNU General Public License v2 with Classpath exception (GPLv2+CPE) provided by OpenJDK,
+The commercial license under Oracle product or service, i.e., Oracle Technology Network License Agreement (ONTLA).
+Besides this significant change, Java 8 introduced several new enhancements. They are as follows:
+
+Lambda. With Lambda expressions, we can write Java programs in the functional style. To accommodate Lambda functionality, java introduced a few classes and methods like Method Reference, forEach, Functional Interfaces, to name a few.
+Developers implemented sweeping changes to the way java deals with Date and Time objects. They implemented a new date/Time API.
+Java allows default methods in interfaces and can even have method bodies.
+Nashorn engine is a new Javascript engine to embed JavaScript code.
+StringCollector class is a new class for string manipulation with delimiters
+Java 8 introduced the concept of Streams. A Stream is a sequence of objects that we can do operations on and can pipeline.
+Developers implemented a new Collectors class. The Collector class provides reduction operations used with streams.
+A Base64 class for encryption and decryption
+Java version 8 introduced a new method, parallelSort in the arrays class for sorting Arrays in parallel.
+There were significant changes in encryption-decryption algorithms.
+The Java server Socket Extension JSSE enables TLS1.0 and TLS 2.0 protocols by default.
+Java 8 introduced a new command, jjs, for the Nashorm JavaScript Engine.
+Java 8 introduced a new command-line tool called jdeps.
+
+
+
+
