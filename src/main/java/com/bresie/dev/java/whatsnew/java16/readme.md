@@ -18,3 +18,4 @@ All rights to the material replicated below are with the original authors as spe
 - https://www.infoworld.com/article/3569150/jdk-16-the-new-features-in-java-16.html
 - https://www.infoq.com/news/2020/11/java16-so-far/
 - https://www.infoq.com/news/2021/03/java16-released/
+- https://www.javacodegeeks.com/2021/04/looking-into-the-jdk-16-vector-api.html
