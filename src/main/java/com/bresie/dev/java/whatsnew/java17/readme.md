@@ -15,3 +15,4 @@ All rights to the material replicated below are with the original authors as spe
 - https://jdk.java.net/17/release-notes
 - http://openjdk.java.net/projects/jdk/17/spec/
 - http://openjdk.java.net/projects/jdk/17/
+- https://www.infoq.com/news/2021/09/java17-released/
