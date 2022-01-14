@@ -16,3 +16,4 @@ All rights to the material replicated below are with the original authors as spe
 - http://openjdk.java.net/projects/jdk/17/spec/
 - http://openjdk.java.net/projects/jdk/17/
 - https://www.infoq.com/news/2021/09/java17-released/
+- https://www.infoworld.com/article/3606833/jdk-17-the-new-features-in-java-17.html
