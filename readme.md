@@ -32,8 +32,7 @@ References:
 * https://github.com/nipafx/demo-java-9-migration/blob/master/README.md
 * https://github.com/nipafx/demo-java-9-migration/blob/master/guide.adoc
 * https://examples.javacodegeeks.com/java-8-vs-java-11/
-
- 
+*  https://www.infoq.com/articles/why-how-upgrade-java17/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text
 
 - Books
  * Java 8 Lambda
@@ -46,3 +45,4 @@ References:
 * https://github.com/AdoptOpenJDK/jdk-api-diff
 * https://github.com/AdoptOpenJDK/lambda-tutorial
 * https://docs.microsoft.com/en-us/azure/java/jdk/transition-from-java-8-to-java-11
+* https://github.com/johanjanssen/JavaUpgrades
