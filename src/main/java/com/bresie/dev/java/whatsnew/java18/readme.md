@@ -14,3 +14,4 @@ All rights to the material replicated below are with the original authors as spe
 
 - https://openjdk.java.net/projects/jdk/18/spec/
 - https://jdk.java.net/18/release-notes
+- https://www.infoworld.com/article/3630510/jdk-18-the-new-features-in-java-18.html
