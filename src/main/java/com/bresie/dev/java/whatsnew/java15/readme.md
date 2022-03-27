@@ -14,5 +14,4 @@ All rights to the material replicated below are with the original authors as spe
 
 - https://www.oracle.com/news/announcement/oracle-announces-java-15-091520.html
 - https://jdk.java.net/15/release-notes
-
-- todo added release note reference
+- https://www.infoworld.com/article/3534133/jdk-15-the-new-features-in-java-15.html
