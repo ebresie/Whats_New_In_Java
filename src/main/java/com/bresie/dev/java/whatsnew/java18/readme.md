@@ -14,3 +14,4 @@ All rights to the material replicated below are with the original authors as spe
 
 - https://openjdk.java.net/projects/jdk/18/spec/
 - https://jdk.java.net/18/release-notes
+- https://www.infoq.com/news/2022/03/java18-released/
