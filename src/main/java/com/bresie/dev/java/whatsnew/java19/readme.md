@@ -14,3 +14,13 @@ All rights to the material replicated below are with the original authors as spe
 
 - https://openjdk.java.net/projects/jdk/19/spec/
 - https://jdk.java.net/19/release-notes
+- https://www.infoq.com/news/2022/09/java19-released/
+
+Includes
+- JEP 405: Record Patterns (Preview)
+- JEP 422: Linux/RISC-V Port
+- JEP 424: Foreign Function & Memory API (Preview)
+- JEP 425: Virtual Threads (Preview)
+- JEP 426: Vector API (Fourth Incubator)
+- JEP 427: Pattern Matching for switch (Third Preview)
+- JEP 428: Structured Concurrency (Incubator)
