@@ -46,3 +46,4 @@ References:
 * https://github.com/AdoptOpenJDK/lambda-tutorial
 * https://docs.microsoft.com/en-us/azure/java/jdk/transition-from-java-8-to-java-11
 * https://github.com/johanjanssen/JavaUpgrades
+* https://github.com/wesleyegberto/java-new-features
