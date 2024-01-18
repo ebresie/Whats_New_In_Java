@@ -14,3 +14,4 @@ All rights to the material replicated below are with the original authors as spe
 
 - https://openjdk.org/projects/jdk/21/
 - https://jdk.java.net/21/release-notes
+- https://medium.com/@dheerubhadoria/java-21-features-with-example-a348f4c40e99
